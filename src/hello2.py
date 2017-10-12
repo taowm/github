@@ -14,4 +14,4 @@ print ("c=",c);
 # again 
 =======
 # This is edited from git2 again !
->>>>>>> 8a6f729ebcb2a327ac5c6054daa22eff23eba774
+kd
